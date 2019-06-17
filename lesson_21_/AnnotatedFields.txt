@@ -1,0 +1,1 @@
+{name=This is pet's name, type=This is pet's type}
